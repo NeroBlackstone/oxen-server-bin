@@ -8,7 +8,7 @@ arch=('x86_64')
 url="https://www.oxen.ai/"
 license=('Apache-2.0')
 source=("https://github.com/Oxen-AI/Oxen/releases/download/v${pkgver}/oxen-server-ubuntu-latest.deb")
-sha256sums=('9cbc6eb8e4314dd088b4b4a16853ce436e3a1edc47abd6ce1203ad7572d9f73b')
+sha256sums=('33338b1d1d8147c314b7a11fa47dddd872989927b178a40a83727dd09ed4142e')
 
 prepare() {
     mkdir -p "$srcdir/$pkgname-$pkgver"
