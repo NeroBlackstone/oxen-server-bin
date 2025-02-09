@@ -1,7 +1,7 @@
 # Maintainer: Nero Blackstone <gf7600gs@gmail.com>
 
 pkgname=oxen-server-bin
-pkgver=0.24.4
+pkgver=0.26.0
 pkgrel=1
 pkgdesc="Oxen server. Oxen is a lightning fast data version control system for structured and unstructured machine learning datasets."
 arch=('x86_64')
