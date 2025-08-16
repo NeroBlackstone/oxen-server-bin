@@ -1,7 +1,7 @@
 pkgbase = oxen-server-bin
 	pkgdesc = Oxen server. Oxen is a lightning fast data version control system for structured and unstructured machine learning datasets.
 	pkgver = 0.36.4
-	pkgrel = 1
+	pkgrel = 2
 	url = https://www.oxen.ai/
 	arch = x86_64
 	license = Apache-2.0
